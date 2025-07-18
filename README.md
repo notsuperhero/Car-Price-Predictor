@@ -16,10 +16,6 @@ Linear Regression Model: Implementation and training of a Multiple Linear Regres
 
 Model Evaluation: Comprehensive assessment of the model's performance using metrics such as R-squared, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
 
-Interactive Prediction Interface (Optional): (If you integrated with Flask/Streamlit, mention it here, e.g., "A simple web interface using Flask/Streamlit for real-time price predictions.")
-
-CampusX Context
-This project was developed as a hands-on assignment and learning exercise following the guidelines and principles taught in the CampusX Machine Learning/Data Science program. It embodies the practical application of concepts like data preprocessing, exploratory data analysis, feature engineering, and model building with Linear Regression, which are core to the CampusX curriculum. The dataset used and the problem statement are typical of the practical projects encouraged by CampusX to build an end-to-end understanding of ML pipelines.
 
 Technologies Used
 Python: The primary programming language.
