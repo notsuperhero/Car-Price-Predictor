@@ -42,4 +42,6 @@ Matplotlib: For creating static, publication-quality visualizations.
 
 Seaborn: For enhanced statistical data visualizations.
 
+Bootstrap: A front-end framework for designing responsive and visually appealing web interfaces.
+
 Flask
